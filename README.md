@@ -38,9 +38,6 @@ JUnit • Manual Testing • Git & GitHub • NetBeans • VS Code • Google Co
 ## 🔗 Let's Connect
 
 📫 Reach me at: [itissulav8@gmail.com](mailto:itissulav8@gmail.com)  
-🌐 Website: [sulavpaudel]((https://itissulav.github.io/))  
+🌐 Website: [[https://itissulav.github.io](https://itissulav.github.io/)]
 🧠 Projects, experiments, and chaos: Right here on GitHub.
 
----
-
-> _"Code is poetry—but mine comes with punchlines and playlists."_ 🎧
